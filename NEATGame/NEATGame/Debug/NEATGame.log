@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\niall milsom\desktop\projects\project\neatgame\neatgame\main.cpp(5): warning C4930: 'NEATGame::ANN ann(void)': prototyped function not called (was a variable definition intended?)
+  Genome.cpp
+  ANN.cpp
+  Generating Code...
+  NEATGame.vcxproj -> C:\Users\Niall Milsom\Desktop\Projects\Project\NEATGame\Debug\NEATGame.exe
+  NEATGame.vcxproj -> C:\Users\Niall Milsom\Desktop\Projects\Project\NEATGame\Debug\NEATGame.pdb (Partial PDB)
